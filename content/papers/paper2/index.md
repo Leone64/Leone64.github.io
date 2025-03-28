@@ -40,7 +40,7 @@ This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor s
 
 ##### Plotly Test 2
 <div>
-<iframe src="/static/Cloud_selected_cylinder.html" title="Plotly Test"></iframe>
+<iframe src="~/static/Cloud_selected_cylinder.html" title="Plotly Test"></iframe>
 </div>
 ---
 

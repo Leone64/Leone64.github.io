@@ -22,7 +22,7 @@ This dataset describes the parameters of the members in the cloud catalogue as p
 
 ## Download dat
 
-+ The parameters of the clouds in the catalogue: [cloud-data.csv](https://github.com/Leone64/Leone64.github.io/tree/main/static/cloud_data.csv)
++ The parameters of the clouds in the catalogue: [cloud-data.csv](https://github.com/Leone64/Leone64.github.io/blob/main/static/cloud-data.csv)
 
 ---
 

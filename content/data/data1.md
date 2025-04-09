@@ -1,13 +1,13 @@
 ---
-title: "List of Irregular Verbs Across Romance Languages" 
+title: "Cloud Data" 
 date: 2013-03-07
 lastmod: 2024-07-12
-tags: ["Romance languages","philology","irregular verbs","Portuguese","Italian","French","Spanish","simulations","dataset","python"]
-author: ["Patrick Fitzcarron O'Leary","Florianus Prinzel","Walter Schoeffler-Henschell","Detlev Amadeus Unterholzer", "Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This dataset contains all irregular verbs in known Romance languages."
-summary: "This dataset contains all irregular verbs in known Romance languages."
+tags: ["dust cloud","dataset","python"]
+author: ["Leon Engel"]
+description: "This dataset contains the parameters of the cloud catalogue."
+summary: "This dataset contains the parameters of the cloud catalogue."
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://github.com/Leone64/Leone64.github.io/tree/main/static"
     Text: "GitHub repository"
 showToc: true
 disableAnchoredHeadings: false
@@ -16,28 +16,13 @@ disableAnchoredHeadings: false
 
 ## Overview
 
-This dataset contains all irregular verbs in [all known Romance languages](http://www.alexandermccallsmith.com/series/von-igelfeld-series)—including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This dataset describes the parameters of the members in the cloud catalogue as presented in my Bachelor Thesis.
 
 ---
 
-## View dataset
+## Download dat
 
-+ Irregular verbs in Portugese: [data](https://github.com/pmichaillat/feru)
-+ Irregular verbs in Italian: [data](https://github.com/pmichaillat/unemployment-gap)
-+ Irregular verbs in French: [data](https://github.com/pmichaillat/job-rationing)
-+ Irregular verbs in Spanish: [data](https://github.com/pmichaillat/countercyclical-multiplier)
-
----
-
-## Source of data
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
++ The parameters of the clouds in the catalogue: [cloud-data.csv](https://github.com/Leone64/Leone64.github.io/tree/main/static/cloud_data.csv)
 
 ---
 
@@ -121,13 +106,3 @@ print(f"Maximum Value: {max_value}")
 
 ---
 
-## Description of simulation parameters
-
-| Parameter |   Value   |  Language  | Time period |           Description            |
-| :-------: | :-------: | ---------- | :---------: | :------------------------------: |
-|  $\alpha$ |   $1/2$   | French     |  1930–1954  |         Tempor dolor in          |
-| $\lambda$ |   $e/2$   | French     |  1930–1954  |       Fugiat sint occaecat       |
-|  $\gamma$ |  $\ln(3)$ | Spanish    |  1833–1954  |      Duis officia deserunt       |
-|  $\omega$ | $10^{-4}$ | Italian    |  1930–1994  | Excepteur et dolore magna aliqua |
-|  $\sigma$ |   $1.5$   | Portuguese |  1990–2023  |         Lorem culpa qui          |
-|  $\chi^2$ |  $\pi^2$  | Portuguese |  1990–2023  |         Labore et dolore         |

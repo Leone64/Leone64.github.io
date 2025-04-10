@@ -88,8 +88,8 @@ layout = go.Layout(
         #    eye=dict(x=0, y=0, z=3.7),
         #),
     ),
-    width= 1000,
-    height=1000,
+    width= 800,
+    height=800,
     font=dict(
         size=14,
         color="black",

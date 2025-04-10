@@ -28,8 +28,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Interactive Figures in the Thesis
 
-- [Figure such and such](dust.md)
-- [Another one](dropdown_plot.md)
+- [Figure such and such](/dust/)
+- [Another one](/dropdown_plot/)
 - [Last one]()
 
 ---

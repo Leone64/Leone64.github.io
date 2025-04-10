@@ -1,10 +1,9 @@
 ---
 title: "Cloud dust map" 
 date: 2025-04-10
-url: "/bachthesis/dropdown_plot/"
 aliases:
- - /dropdown/
- - /bachthesis/dropdown.md
+ - /dropdown_plot/
+ - /bachthesis/dropdown_plot.md
 tags: ["Dust Map", "3D", "python"]
 author: ["Leon Engel"]
 description: "Paper description for search engines (less than 155 characters)" 

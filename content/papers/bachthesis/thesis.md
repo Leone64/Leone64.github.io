@@ -1,7 +1,7 @@
 ---
 title: "A small Catalogue of Dust Clouds within 1.25 kpc of the Sun" 
 date: 2025-04-10
-url: /papers/bachthesis/
+url: /bachthesis/
 tags: ["dust cloud", "python", "catalogue"]
 author: ["Leon Engel"]
 description: "A cursory work on cataloguing dust clouds in the Solar neighbourhood." 
@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Interactive Figures in the Thesis
 
-- [Figure such and such](/dust/)
+- [Figure such and such](/bachthesis/dust/)
 - [Another one](/dropdown_plot/)
 - [Last one]()
 

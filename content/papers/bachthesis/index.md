@@ -28,9 +28,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Interactive Figures in the Thesis
 
-- [Figure such and such](/bachthesis/dust/)
-- [Another one](/bachthesis/dropdown/)
-- [Last one]()
+- [dust plot](/bachthesis/dust/)
+- [dropdown plot](/bachthesis/dropdown/)
+- [clouds plot](/bachthesis/clouds)
 
 ---
 

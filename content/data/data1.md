@@ -7,7 +7,7 @@ author: ["Leon Engel"]
 description: "This dataset contains the parameters of the cloud catalogue."
 summary: "This dataset contains the parameters of the cloud catalogue."
 editPost:
-    URL: "https://github.com/Leone64/Leone64.github.io/tree/main/static"
+    URL: "https://github.com/Leone64/catalogue_dustclouds"
     Text: "GitHub repository"
 showToc: true
 disableAnchoredHeadings: false

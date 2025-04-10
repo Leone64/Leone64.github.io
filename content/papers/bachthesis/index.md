@@ -16,21 +16,21 @@ cover:
 
 - [Thesis](Bachelor_Thesis.pdf)
 - [Catalogue Data](cloud-data.csv)
-- [Code Repo](https://github.com/paper_repo)
+- [Code Repo](https://github.com/Leone64/catalogue_dustclouds)
 
 ---
 
 ##### Abstract:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+This thesis presents a catalogue of 23 dust clouds within $\qty{1.25}{\kilo\pc}$ of the Sun using \textit{GAIA DR3} data. The dust distribution models used are derived from photometric and spectroscopic data, including the \textit{LAMOST}, \textit{2MASS} and \textit{unWISE}. Cloud boundaries and masses are determined through visual and computational methods respectively, and both statistical and systematic uncertainties are assessed. Notable clouds, such as parts of the Vela Molecular Ridge, are highlighted, demonstrating the potential of a parsec-resolution dataset in understanding structures in the solar neighbourhood. The thesis emphasizes the need for standardized methodologies and integration with existing catalogues for future research.
+gh repo clone Leone64/catalogue_dustclouds
 ---
 
 ##### Interactive Figures in the Thesis
 
-- [dust plot](/bachthesis/dust_model/)
-- [dropdown plot](/bachthesis/dropdown/)
-- [clouds plot](/bachthesis/clouds)
+- [Dust Map (Fig. 2.1)](/bachthesis/dust_model/)
+- [Cloud selection process (Figs. 3.1, 3.3)](/bachthesis/dropdown/)
+- [Boundaries of catalogue members (Fig. 4.1)](/bachthesis/clouds)
 
 ---
 

@@ -23,7 +23,6 @@ cover:
 ##### Abstract:
 
 This thesis presents a catalogue of 23 dust clouds within $1.25\text{ kpc}$ of the Sun using _GAIA DR3_ data. The dust distribution models used are derived from photometric and spectroscopic data, including the _LAMOST_, _2MASS_ and _unWISE_. Cloud boundaries and masses are determined through visual and computational methods respectively, and both statistical and systematic uncertainties are assessed. Notable clouds, such as parts of the Vela Molecular Ridge, are highlighted, demonstrating the potential of a parsec-resolution dataset in understanding structures in the solar neighbourhood. The thesis emphasizes the need for standardized methodologies and integration with existing catalogues for future research.
-gh repo clone Leone64/catalogue_dustclouds
 
 ---
 

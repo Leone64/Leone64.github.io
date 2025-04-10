@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Interactive Figures in the Thesis
 
-- [dust plot](/bachthesis/dust/)
+- [dust plot](/bachthesis/dust_model/)
 - [dropdown plot](/bachthesis/dropdown/)
 - [clouds plot](/bachthesis/clouds)
 
@@ -36,4 +36,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Related material
 
-+ [Presentation slides](presentation.pdf)
++ [Presentation slides](Bachelorpresentation_Slides.pdf)

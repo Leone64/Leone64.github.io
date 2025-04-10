@@ -7,7 +7,7 @@ author: ["Leon Engel"]
 description: "A cursory work on cataloguing dust clouds in the Solar neighbourhood." 
 summary: "A cursory work on cataloguing dust clouds in the Solar neighbourhood, using GAIA DR3 data."
 cover:
-    image: "/bachthesis/image.png"
+    image: "image.png"
     alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"
     relative: "false"
 ---

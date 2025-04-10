@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Interactive Figures in the Thesis
 
-- [Figure such and such]()
+- [Figure such and such](dust.md)
 - [Another one]()
 - [Last one]()
 

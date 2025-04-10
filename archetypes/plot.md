@@ -23,6 +23,6 @@ cover:
 
 ##### Figure
 
-{{fig}}
+Figure here
 
 ---
